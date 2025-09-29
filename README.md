@@ -19,5 +19,6 @@ md_img_sync.py
 <img width="1510" height="411" alt="QQ_1759028941269" src="https://github.com/user-attachments/assets/732aa308-beab-4af1-bbda-523d04add7ab" />
 <img width="1239" height="388" alt="QQ_1759028405131" src="https://github.com/user-attachments/assets/60acb880-1096-44a5-8abf-b2286dee48f8" />
 <img width="1814" height="1041" alt="QQ_1759028450832" src="https://github.com/user-attachments/assets/7863fe48-f61b-458f-9495-c2d178880dbb" />
+经过这三步后，可直接将md推送到静态博客，可正常解析图片
 
 
